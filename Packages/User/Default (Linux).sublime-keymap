@@ -1,0 +1,7 @@
+[
+    {"keys": ["ctrl+shift+w"], "command": "close_window"},
+    {"keys": ["ctrl+n"}, "command": "new_file"},
+    {"keys": ["alt+x"], "command": "close"},
+    {"keys": ["alt+right"], "command": "next_view"},
+    {"keys": ["alt+left"], "command": "prev_view"},
+]
