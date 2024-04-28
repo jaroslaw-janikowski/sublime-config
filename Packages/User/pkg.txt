@@ -11,3 +11,4 @@ LSP-marksman
 LSP-pylsp
 LSP-typescript
 LSP-yaml
+phpactor
