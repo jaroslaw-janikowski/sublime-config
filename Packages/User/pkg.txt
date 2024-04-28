@@ -1,0 +1,13 @@
+SublimeGit
+GitGutter
+LSP
+LSP-bash
+LSP-clangd
+LSP-css
+LSP-dockerfile
+LSP-html
+LSP-json
+LSP-marksman
+LSP-pylsp
+LSP-typescript
+LSP-yaml
