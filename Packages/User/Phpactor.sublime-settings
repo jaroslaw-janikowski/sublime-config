@@ -1,0 +1,11 @@
+{
+    "phpactor_bin": "/home/jj/.local/bin/phpactor",
+    "command_settings": {
+        "references": {
+            "filesystem": "git"
+        },
+        "complete": {
+            "enabled": true
+        }
+    },
+}
